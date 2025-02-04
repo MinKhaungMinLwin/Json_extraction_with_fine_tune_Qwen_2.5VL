@@ -24,7 +24,7 @@ A project for fine-tuning the Qwen 2.5 Vision-Language 3B Instruct model to extr
 
 
 ## Installation
-- git clone https://github.com/your-username/qwen-json-extractor.git
+- git clone https://github.com/MinKhaungMinLwin/qwen-json-extractor.git
 - cd qwen-json-extractor
 
 ## Training Configuration
